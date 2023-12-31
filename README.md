@@ -1,5 +1,8 @@
 # Blueprint Retarget plugin
-An small tool that allows retargeting invalid blueprints when its parent class is missing on UE4
+An small tool that allows retargeting invalid blueprints when its parent class is missing on UE5
+
+## Installation
+Place this repository folder on `YourProject/Plugins`
 
 ## When to Use
 Use this tool when a blueprint has a missing parent class (and therefore you can't open it).

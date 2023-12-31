@@ -4,7 +4,7 @@
 
 #include <CoreGlobals.h>
 #include <AssetToolsModule.h>
-#include <AssetRegistryModule.h>
+#include "AssetRegistry/AssetRegistryModule.h"
 #include <ContentBrowserModule.h>
 #include <IContentBrowserSingleton.h>
 #include <EditorStyleSet.h>
